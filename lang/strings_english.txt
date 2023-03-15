@@ -1,0 +1,9 @@
+<?php
+$s_plugin_owa_ = '';
+$s_plugin_owa_title = 'OWA';
+$s_plugin_owa_description = 'Add OWA analytics to your Mantis site.';
+
+$s_plugin_owa_owa_loc = 'OWA Location<br/><span class="small">(Include trailing slash)</span>';
+$s_plugin_owa_site_id = 'OWA Site ID';
+
+$MANTIS_ERROR['ERROR_CONFIG_OWA'] = 'Plugin config not correct, location of OWA not found.'; 
