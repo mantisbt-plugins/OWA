@@ -1,0 +1,3 @@
+Version: 1.01 #
+Devurl: https://github.com/mantisbt-plugins/owa/blob/main/version.txt #
+Location: https://github.com/mantisbt-plugins/owa/archive/refs/heads/main.zip #
