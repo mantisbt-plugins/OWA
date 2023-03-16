@@ -11,9 +11,9 @@ class owaPlugin extends MantisPlugin {
 			'MantisCore' => '2.0.0',
 		);
 
-		$this->author = 'Cas Nuy';
-		$this->contact = 'cas@nuy.info';
-		$this->url = 'www.nuy.info';
+		$this->author	= 'Cas Nuy';
+		$this->contact	= 'cas@nuy.info';
+		$this->url	= 'https://github.com/mantisbt-plugins/owa';
 	}
 
 	function config() {
