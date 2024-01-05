@@ -16,5 +16,4 @@ if (!file_exists($owa_file))  {
 plugin_config_set( 'owa_loc', $f_owa_loc );
 plugin_config_set( 'site_id', $f_site_id );
 
-//print_successful_redirect( plugin_page( 'config', true ) );
-print_successful_redirect('manage_plugin_page.php');
+print_header_redirect('manage_plugin_page.php');
